@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Snake Game in C</title>
-</head>
 <body>
 
 <h1>Snake Game in C</h1>
@@ -27,7 +24,7 @@
 <ul>
     <li>GCC (or any C compiler)</li>
     <li>ncurses library</li>
-    <li>Linux environment (tested on WSL)</li>
+    <li>Unix/Linux environment (tested on WSL)</li>
 </ul>
 
 <h2>Compilation</h2>
@@ -53,10 +50,6 @@ make
 <h2>License</h2>
 
 <p>MIT License</p>
-
-<h2>Author</h2>
-
-<p>[Your Name]</p>
 
 <h2>Acknowledgements</h2>
 
