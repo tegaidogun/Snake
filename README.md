@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>Snake Game in C</h1>
+<h1>Snake Game</h1>
 
-<p>A classic snake game implemented in C using the ncurses library.</p>
+<p>A classic snake game implemented in C rendered using the ncurses library.</p>
 
 <h2>Description</h2>
 
